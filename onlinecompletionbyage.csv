@@ -1,0 +1,35 @@
+age,first,percentage
+16-19,online,98.3%
+16-19,paper,71.5%
+20-24,online,99.2%
+20-24,paper,71.1%
+25-29,online,99.4%
+25-29,paper,71.1%
+30-34,online,99.3%
+30-34,paper,69.9%
+35-39,online,99.1%
+35-39,paper,68.2%
+40-44,online,98.9%
+40-44,paper,65.0%
+45-49,online,98.5%
+45-49,paper,60.0%
+50-54,online,97.7%
+50-54,paper,53.6%
+55-59,online,96.6%
+55-59,paper,46.1%
+60-64,online,94.6%
+60-64,paper,39.1%
+65-69,online,91.3%
+65-69,paper,32.7%
+70-74,online,86.8%
+70-74,paper,26.8%
+74-79,online,81.7%
+74-79,paper,23.3%
+80-84,online,77.2%
+80-84,paper,22.5%
+85-89,online,75.8%
+85-89,paper,24.0%
+90-94,online,77.0%
+90-94,paper,27.0%
+95 and over,online,79.0%
+95 and over,paper,29.6%
