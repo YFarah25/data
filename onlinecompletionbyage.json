@@ -1,0 +1,172 @@
+[
+ {
+   "age": "16-19",
+   "first": "online",
+   "percentage": "98.3%"
+ },
+ {
+   "age": "16-19",
+   "first": "paper",
+   "percentage": "71.5%"
+ },
+ {
+   "age": "20-24",
+   "first": "online",
+   "percentage": "99.2%"
+ },
+ {
+   "age": "20-24",
+   "first": "paper",
+   "percentage": "71.1%"
+ },
+ {
+   "age": "25-29",
+   "first": "online",
+   "percentage": "99.4%"
+ },
+ {
+   "age": "25-29",
+   "first": "paper",
+   "percentage": "71.1%"
+ },
+ {
+   "age": "30-34",
+   "first": "online",
+   "percentage": "99.3%"
+ },
+ {
+   "age": "30-34",
+   "first": "paper",
+   "percentage": "69.9%"
+ },
+ {
+   "age": "35-39",
+   "first": "online",
+   "percentage": "99.1%"
+ },
+ {
+   "age": "35-39",
+   "first": "paper",
+   "percentage": "68.2%"
+ },
+ {
+   "age": "40-44",
+   "first": "online",
+   "percentage": "98.9%"
+ },
+ {
+   "age": "40-44",
+   "first": "paper",
+   "percentage": "65.0%"
+ },
+ {
+   "age": "45-49",
+   "first": "online",
+   "percentage": "98.5%"
+ },
+ {
+   "age": "45-49",
+   "first": "paper",
+   "percentage": "60.0%"
+ },
+ {
+   "age": "50-54",
+   "first": "online",
+   "percentage": "97.7%"
+ },
+ {
+   "age": "50-54",
+   "first": "paper",
+   "percentage": "53.6%"
+ },
+ {
+   "age": "55-59",
+   "first": "online",
+   "percentage": "96.6%"
+ },
+ {
+   "age": "55-59",
+   "first": "paper",
+   "percentage": "46.1%"
+ },
+ {
+   "age": "60-64",
+   "first": "online",
+   "percentage": "94.6%"
+ },
+ {
+   "age": "60-64",
+   "first": "paper",
+   "percentage": "39.1%"
+ },
+ {
+   "age": "65-69",
+   "first": "online",
+   "percentage": "91.3%"
+ },
+ {
+   "age": "65-69",
+   "first": "paper",
+   "percentage": "32.7%"
+ },
+ {
+   "age": "70-74",
+   "first": "online",
+   "percentage": "86.8%"
+ },
+ {
+   "age": "70-74",
+   "first": "paper",
+   "percentage": "26.8%"
+ },
+ {
+   "age": "74-79",
+   "first": "online",
+   "percentage": "81.7%"
+ },
+ {
+   "age": "74-79",
+   "first": "paper",
+   "percentage": "23.3%"
+ },
+ {
+   "age": "80-84",
+   "first": "online",
+   "percentage": "77.2%"
+ },
+ {
+   "age": "80-84",
+   "first": "paper",
+   "percentage": "22.5%"
+ },
+ {
+   "age": "85-89",
+   "first": "online",
+   "percentage": "75.8%"
+ },
+ {
+   "age": "85-89",
+   "first": "paper",
+   "percentage": "24.0%"
+ },
+ {
+   "age": "90-94",
+   "first": "online",
+   "percentage": "77.0%"
+ },
+ {
+   "age": "90-94",
+   "first": "paper",
+   "percentage": "27.0%"
+ },
+ {
+   "age": "95 and over",
+   "first": "online",
+   "percentage": "79.0%"
+ },
+ {
+   "age": "95 and over",
+   "first": "paper",
+   "percentage": "29.6%"
+ }
+]
